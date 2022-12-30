@@ -54,6 +54,10 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 ![image](https://user-images.githubusercontent.com/117045943/210030204-f1d2c685-ae27-4727-83e9-8bb0de25f4a4.png)
 
+4.3 Calcular errores de las mediciones 
+
+![image](https://user-images.githubusercontent.com/117045943/210031311-3e9fb9ed-057d-4a12-9683-e48ba2a679a0.png)
+
 5. VIDEO
 
 
