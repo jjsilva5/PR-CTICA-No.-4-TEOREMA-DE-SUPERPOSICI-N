@@ -60,7 +60,13 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 
 5. VIDEO
 
+5.1 Calculos
 
+https://drive.google.com/file/d/1xprbNgkmxy9d7ilNZ2S2OvpFzzpXu-Dq/view?usp=sharing
+
+5.2 Circuito armado en thinkercard
+
+https://drive.google.com/file/d/10VzfwMNfGud2X6F1dh8xxfxFGUCOALH6/view?usp=sharing
 
 6. CONCLUSIONES
 
